@@ -1,10 +1,5 @@
 '''
-
-                            Online Python Interpreter.
-                Code, Compile, Run and Debug python program online.
-Write your code in this editor and press "Run" button to execute it.
-Let say inv amount is 100
-program will add 10 each time
+hello world
 '''
    
 def percentcalc(inv):
